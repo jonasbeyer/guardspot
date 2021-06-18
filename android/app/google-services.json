@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731583789418",
+    "firebase_url": "https://leitstellensoftware.firebaseio.com",
+    "project_id": "leitstellensoftware",
+    "storage_bucket": "leitstellensoftware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731583789418:android:2f53e2a6a3999c50",
+        "android_client_info": {
+          "package_name": "de.jonasbeyer.lts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731583789418-hv4c049sfvern6tk035gsj45lsggm90j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDF7XbrCZ5gVPrZ1v2rGaEdDb64vqmzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731583789418-hv4c049sfvern6tk035gsj45lsggm90j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
